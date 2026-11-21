@@ -4,10 +4,10 @@
   "source": "https://trove.nla.gov.au/newspaper/page/26801066",
   "source_image_viewer": "https://trove.nla.gov.au/ndp/imageservice/nla.news-page26801066/level5",
   "source_rights_policy": "https://creativecommons.org/publicdomain/mark/1.0/",
-  "dataset_version": "0.1.0",
+  "dataset_version": "0.2.0",
   "scan_count": 1,
   "content_scan_count": 1,
-  "review_status": "initial-transcription",
+  "review_status": "targeted-image-adjudication",
   "source_image_inventory": [
     {
       "image": 1,

@@ -1,0 +1,154 @@
+{
+  "terminology": "一筆修訂可包含同欄多字；依底本採用的修訂及仍待判的位置保留原圖入口。",
+  "changed_locations": 4,
+  "changes": [
+    {
+      "image": 1,
+      "side": "single",
+      "column": 2,
+      "kind": "main",
+      "op": "replace",
+      "before": "童事。在保皇會所聚議。同商捐欵之法。一為撫恤兩童之家",
+      "after": "童事。在保皇會所聚議。同商捐欵之法。一爲撫恤兩童之家",
+      "reason": "原圖取爲字字形。",
+      "source_bbox": [
+        1340,
+        275,
+        1934,
+        1132
+      ],
+      "source_image_sha256": "44fc9a34ddf3b60c8a14a2594c841ce621d4c26af5d00fe7242a32df717db4ea",
+      "canvas": "https://trove.nla.gov.au/newspaper/page/26801066"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 3,
+      "kind": "main",
+      "op": "replace",
+      "before": "屬。一擬延請狀師。為趙帶減輕罪名。兩項所費。均屬甚巨",
+      "after": "屬。一擬延請狀師。爲趙帶減輕罪名。兩項所費。均屬甚巨",
+      "reason": "原圖取爲字字形。",
+      "source_bbox": [
+        1340,
+        275,
+        1934,
+        1132
+      ],
+      "source_image_sha256": "44fc9a34ddf3b60c8a14a2594c841ce621d4c26af5d00fe7242a32df717db4ea",
+      "canvas": "https://trove.nla.gov.au/newspaper/page/26801066"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 5,
+      "kind": "main",
+      "op": "replace",
+      "before": "定於本禮拜六日。沿門勸捐。以為辦理此兩事之用云。",
+      "after": "定於本禮拜六日。沿門勸捐。以爲辦理此兩事之用云。",
+      "reason": "原圖取爲字字形。",
+      "source_bbox": [
+        1340,
+        275,
+        1934,
+        1132
+      ],
+      "source_image_sha256": "44fc9a34ddf3b60c8a14a2594c841ce621d4c26af5d00fe7242a32df717db4ea",
+      "canvas": "https://trove.nla.gov.au/newspaper/page/26801066"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 12,
+      "kind": "main",
+      "op": "replace",
+      "before": "。撫恤死者之外。又為趙氏延請律師。求減罪名。君子用",
+      "after": "。撫恤死者之外。又爲趙氏延請律師。求減罪名。君子用",
+      "reason": "原圖取爲字字形。",
+      "source_bbox": [
+        1340,
+        275,
+        1934,
+        1132
+      ],
+      "source_image_sha256": "44fc9a34ddf3b60c8a14a2594c841ce621d4c26af5d00fe7242a32df717db4ea",
+      "canvas": "https://trove.nla.gov.au/newspaper/page/26801066"
+    }
+  ],
+  "differences_for_future_review": [
+    {
+      "image": 1,
+      "side": "single",
+      "column": 1,
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/26801066",
+      "status": "保留疑讀"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 2,
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/26801066",
+      "status": "保留疑讀"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 13,
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/26801066",
+      "status": "保留疑讀"
+    }
+  ],
+  "retained_readings": [
+    {
+      "image": 1,
+      "side": "single",
+      "column": 7,
+      "context": "實可敬佩。。",
+      "alternatives": [
+        "。。",
+        "。"
+      ],
+      "reason": "原圖有兩個空圈，外交錄文保留兩圈。",
+      "source_bbox": [
+        1340,
+        275,
+        1934,
+        1132
+      ]
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 9,
+      "context": "無我無衆生。。",
+      "alternatives": [
+        "。。",
+        "。"
+      ],
+      "reason": "原圖有兩個空圈，外交錄文保留兩圈。",
+      "source_bbox": [
+        1340,
+        275,
+        1934,
+        1132
+      ]
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 13,
+      "context": "仁至義盡。。",
+      "alternatives": [
+        "。。",
+        "。"
+      ],
+      "reason": "原圖有兩個空圈，外交錄文保留兩圈。",
+      "source_bbox": [
+        1340,
+        275,
+        1934,
+        1132
+      ]
+    }
+  ]
+}
