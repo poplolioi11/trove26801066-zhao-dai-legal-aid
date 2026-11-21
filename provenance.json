@@ -1,0 +1,20 @@
+{
+  "historical_author": "無署名（《東華報》）",
+  "source_identity": "Tung Wah Times, 1906-08-25, p. 6, NLA news-page26801066",
+  "source": "https://trove.nla.gov.au/newspaper/page/26801066",
+  "source_image_viewer": "https://trove.nla.gov.au/ndp/imageservice/nla.news-page26801066/level5",
+  "source_rights_policy": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "dataset_version": "0.1.0",
+  "scan_count": 1,
+  "content_scan_count": 1,
+  "review_status": "initial-transcription",
+  "source_image_inventory": [
+    {
+      "image": 1,
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/26801066",
+      "label": "1906-08-25 第6版",
+      "sha256": "44fc9a34ddf3b60c8a14a2594c841ce621d4c26af5d00fe7242a32df717db4ea",
+      "content_role": "complete-article"
+    }
+  ]
+}

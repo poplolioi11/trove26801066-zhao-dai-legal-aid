@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "work_key": "trove26801066b",
+    "title": "兩善俱備",
+    "edition": "0.1.0",
+    "language": "lzh",
+    "shelfmark": "Tung Wah Times, 1906-08-25, p. 6, NLA news-page26801066",
+    "reading_order": "source columns, ordered as printed",
+    "title_policy": "Stand-alone headings in extras, inline ones in their original column",
+    "version": "0.1.0",
+    "dataset_title": "兩善俱備（《東華報》1906-08-25 第6版，澳洲國家圖書館） / Liang shan ju bei [A Community Fund for Bereaved Families and Legal Aid]: Transcription Dataset",
+    "review_status": "initial-transcription",
+    "editor": {
+      "name": "Chu, Chen-Yu",
+      "orcid": "0009-0003-9738-6914"
+    }
+  },
+  "pages": [
+    {
+      "image": 1,
+      "sides": [
+        {
+          "side": "single",
+          "columns": [
+            {
+              "text": "◎兩善俱備　本月初三晚。本埠衆華商。因趙帶擊死兩西"
+            },
+            {
+              "text": "童事。在保皇會所聚議。同商捐欵之法。一為撫恤兩童之家"
+            },
+            {
+              "text": "屬。一擬延請狀師。為趙帶減輕罪名。兩項所費。均屬甚巨"
+            },
+            {
+              "text": "。是晚所捐欵項。約得英金二十磅左右。隨後復議舉多人。"
+            },
+            {
+              "text": "定於本禮拜六日。沿門勸捐。以為辦理此兩事之用云。"
+            },
+            {
+              "text": "記者按西童二人。無辜喪命。仁人義士。同深憫惻。今本"
+            },
+            {
+              "text": "埠華商。共議捐欵撫恤。慈善之念。。實可敬佩。。蓋以種族"
+            },
+            {
+              "text": "之界。區劃雖嚴。然遇凶災急難。則一切色相。均歸消釋。"
+            },
+            {
+              "text": "噫。是之所謂文明。。是之所謂大慈大悲。。無我無衆生。。"
+            },
+            {
+              "text": "記者又按趙氏殺人。非有心殺人也。瘋狂而已。以瘋狂而"
+            },
+            {
+              "text": "殺人。則我等既憐兩童。尤當并憐趙氏。今擬以所捐欵項"
+            },
+            {
+              "text": "。撫恤死者之外。又為趙氏延請律師。求減罪名。君子用"
+            },
+            {
+              "text": "心。。無所不徧。噫。是之所謂仁至義盡。。"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [
+        {
+          "side": "single",
+          "column": 1,
+          "context": "衆",
+          "candidates": [
+            "衆",
+            "眾"
+          ],
+          "note": "按原報字形保留候讀。"
+        },
+        {
+          "side": "single",
+          "column": 2,
+          "context": "欵",
+          "candidates": [
+            "欵",
+            "款"
+          ],
+          "note": "雙字形可能互見，按照片逐欄取字。"
+        },
+        {
+          "side": "single",
+          "column": 13,
+          "context": "徧",
+          "candidates": [
+            "徧",
+            "遍"
+          ],
+          "note": "圖上可見彳旁，依原形暫定。"
+        }
+      ],
+      "observations": "首欄題頭雙圈，正文共十三欄，末欄收「仁至義盡」及雙圈。上接獨立新聞〈華人癲狂殺人之慘事〉，本文焦點為同案社群扶助。",
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/26801066",
+      "catalogue_page": 6,
+      "image_url": "https://trove.nla.gov.au/ndp/imageservice/nla.news-page26801066/level5",
+      "sha256": "44fc9a34ddf3b60c8a14a2594c841ce621d4c26af5d00fe7242a32df717db4ea",
+      "label": "1906-08-25 第6版",
+      "dimensions": [
+        2939,
+        3907
+      ],
+      "article_extent": [
+        1340,
+        275,
+        1934,
+        1132
+      ],
+      "article_regions": [
+        [
+          1340,
+          275,
+          1934,
+          1132
+        ]
+      ],
+      "content_role": "complete-article",
+      "state": "transcribed"
+    }
+  ]
+}

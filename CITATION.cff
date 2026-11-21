@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: If you use this dataset, please cite this version and the source copy.
+title: '兩善俱備（《東華報》1906-08-25 第6版，澳洲國家圖書館） / Liang shan ju bei [A Community Fund for
+  Bereaved Families and Legal Aid]: Transcription Dataset'
+type: dataset
+version: 0.1.0
+authors:
+- family-names: Chu
+  given-names: Chen-Yu
+  orcid: https://orcid.org/0009-0003-9738-6914
+repository-code: https://github.com/poplolioi11/trove26801066-zhao-dai-legal-aid
+keywords:
+- 東華報
+- 兩善俱備
+- 精神醫學史
+- 澳洲華文報刊
+- 社群扶助
+- Tung Wah Times
+- history of psychiatry
+- Chinese Australian newspapers
+- Trove
+- TEI
